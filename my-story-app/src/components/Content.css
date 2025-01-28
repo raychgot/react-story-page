@@ -1,0 +1,19 @@
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: justify;
+    margin: 20px;
+    color: rgb(20, 124, 102);
+    padding-top: 10px;
+    font-style: oblique;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  img {
+    width: 500px;
+    height: 350px;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+  }
